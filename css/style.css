@@ -4,9 +4,10 @@
 body{
 	/*background: url(img/homework1.jpg) no-repeat 400px 0px;*/
 }
-#body{
+.body{
 	width:1024px;
 	/*height:300px;*/
+	margin:0px auto;
 	background: #f3f3e8;;
 	opacity: 0.7;
 }
